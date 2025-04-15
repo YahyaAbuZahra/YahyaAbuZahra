@@ -62,9 +62,6 @@ I believe in creating apps that **simplify life**, and I am driven by **innovati
 - **Computer Engineering Student** 
 - Focused on **Mobile App Development**, **AI**, and **Computer Archtitecture and Organization**.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahyaAbuZahra&show_icons=true&count_private=true&hide_title=true)
-
 
 When I'm not coding, you can find me exploring new technologies, solving puzzles, or playing with the latest gadgets. I'm always excited to learn new things and push the boundaries of what's possible!
 
