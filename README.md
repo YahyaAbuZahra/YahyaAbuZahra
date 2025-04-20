@@ -1,7 +1,7 @@
 # 👨‍💻 Yahya Abu Zahra
 
 ## About Me
-Salut, I'm **Yahya Abu Zahra** 👋  
+I'm **Yahya Abu Zahra** 👋  
 I'm a passionate **Computer Engineering student** focused on **Mobile App Development**, **AI**, and **Software Engineering**. I specialize in using **Flutter**, **Dart**, **Java**, and **Python** to create impactful applications. 
 
 I believe in creating apps that **simplify life**, and I am driven by **innovation** and **problem-solving**.
