@@ -10,7 +10,7 @@ I believe in creating apps that **simplify life**, and I am driven by **innovati
 - Building **Mobile Apps** using **Flutter & Dart**.
 - Exploring the integration of **AI** in mobile applications to enhance user experiences.
 
-👯 **Looking to collaborate on**:
+ **Looking to collaborate on**:
 - **Open-source projects**.
 - **AI-based innovations** and **Mobile App Development**.
 
