@@ -65,3 +65,8 @@ I believe in creating apps that **simplify life**, and I am driven by **innovati
 
 When I'm not coding, you can find me exploring new technologies, solving puzzles, or playing with the latest gadgets. I'm always excited to learn new things and push the boundaries of what's possible!
 
+Languages
+ English: Native
+ Arabic: Native
+ Turkish: Advanced
+
