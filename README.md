@@ -58,7 +58,7 @@ I design and ship production-minded ML pipelines: data → features → training
 | **NLP (Natural Language Processing)** | Text models & embeddings | TF-IDF, Transformers (BERT), preprocessing, evaluation |
 | **Computer Vision (CV)** | Image-based ML solutions | CNNs, OpenCV pipelines, inference optimization |
 | **MLOps & Deployment** | Shipping models to production-like setups | REST APIs (FastAPI/Flask), Docker, reproducibility |
-| **Flutter (Secondary)** | ML-powered mobile demos (client layer) | UI, API integration, Firebase basics |
+| **Flutter (Secondary)** | ML-powered mobile demos (client layer) | UI, API integration, Firebase advanced |
 
 ---
 
