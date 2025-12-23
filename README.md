@@ -114,7 +114,13 @@ I design and ship production-minded ML pipelines: data → features → training
 ---
 
 ## 🌍 Languages
-Arabic (Native) • English (C1) • Turkish (C1)
+<p>
+  🇬🇧 <b>English:</b> Advanced
+<br/>
+  🇵🇸 <b>Arabic:</b> Native<br/>
+  🇹🇷 <b>Turkish:</b> Advanced
+</p>
+
 
 ---
 
