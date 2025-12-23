@@ -9,6 +9,15 @@
 </p>
 
 <p align="center">
+  <i>“Build models. Ship systems. Keep it reproducible.”</i>
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+>
+
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YahyaAbuZahra&label=Profile%20Views&style=flat" />
   <img src="https://img.shields.io/github/followers/YahyaAbuZahra?label=Followers&style=flat" />
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2B%20Data%20Science-blue" />
@@ -66,24 +75,19 @@ I design and ship production-minded ML pipelines: data → features → training
 ---
 
 ## 🚀 Featured Projects
-> Replace placeholders with your real repos.
 
 ### 1) 📰 Fake News Detection (NLP) — End-to-End Classification
 **Tech:** Python, scikit-learn, TF-IDF, Logistic Regression / SVM  
 - Built a full text classification workflow (preprocess → vectorize → train → validate)  
-🔗 Repo: https://github.com/YahyaAbuZahra/<REPO_FAKE_NEWS>
 
 ### 2) 🧠 AI-Powered Mental Health Screening Prototype (ML + Mobile Demo)
 **Tech:** Python, TensorFlow/TFLite, NLP, CV, Firebase, *(Flutter — secondary)*  
 - Prototype for preliminary screening (no clinical claims)  
 - Optimized on-device inference using **TensorFlow Lite**  
-🔗 Repo: https://github.com/YahyaAbuZahra/<REPO_MENTAL_HEALTH>
 
 ### 3) 🧳 Travel AI Companion App (AI Integration + Product Thinking)
 **Tech:** OpenAI API, Google Maps API, Firebase, *(Flutter — secondary)*  
 - Conversational trip planning with dynamic itinerary generation  
-🔗 Repo: https://github.com/YahyaAbuZahra/<REPO_TRAVEL_AI>
-
 ---
 
 ## 🧰 Tech Stack
@@ -129,6 +133,12 @@ I design and ship production-minded ML pipelines: data → features → training
 
 ---
 
-> “Build models. Ship systems. Keep it reproducible.”
+<h3 align="center">Thanks for Visiting!</h3>
 
-> If you’re working on **AI/ML or Data Science** projects, I’m ready to contribute with real datasets, rigorous evaluation, and production-minded ML engineering.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=38&fontAlignY=70" />
+</p>
