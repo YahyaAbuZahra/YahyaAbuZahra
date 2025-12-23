@@ -113,27 +113,15 @@ I design and ship production-minded ML pipelines: data → features → training
 
 ---
 
-## 🌍 Languages
+##  Languages
 <p>
-  🇬🇧 <b>English:</b> Advanced
+   <b>English:</b> Advanced
 <br/>
-  🇵🇸 <b>Arabic:</b> Native<br/>
-  🇹🇷 <b>Turkish:</b> Advanced
+   <b>Arabic:</b> Native<br/>
+  <b>Turkish:</b> Advanced
 </p>
 
 
----
-
-## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaAbuZahra&show_icons=true&include_all_commits=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaAbuZahra&layout=compact" height="160"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YahyaAbuZahra" height="170"/>
-</p>
-
----
 
 ## 🤝 Contact
 - 📧 Email: **yabuzahra7@gmail.com**
