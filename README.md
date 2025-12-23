@@ -12,10 +12,7 @@
   <i>“Build models. Ship systems. Keep it reproducible.”</i>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
->
-
-
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YahyaAbuZahra&label=Profile%20Views&style=flat" />
@@ -54,7 +51,7 @@ I design and ship production-minded ML pipelines: data → features → training
 
 ---
 
-## 🧠 What I Do
+##  What I Do
 | Expertise | Working On | Focus Areas |
 |---|---|---|
 | **Machine Learning & Data Science** | End-to-end ML pipelines | EDA, Feature Engineering, Training, Metrics |
@@ -65,7 +62,7 @@ I design and ship production-minded ML pipelines: data → features → training
 
 ---
 
-## 💪 Core Strengths
+##  Core Strengths
 - **ML Engineering:** supervised/unsupervised learning, hyperparameter tuning, cross-validation, error analysis  
 - **NLP:** text preprocessing, TF-IDF, embeddings, Transformers (BERT)  
 - **Computer Vision:** CNN-based classification, OpenCV pipelines  
@@ -76,37 +73,56 @@ I design and ship production-minded ML pipelines: data → features → training
 
 ## 🚀 Featured Projects
 
-### 1) 📰 Fake News Detection (NLP) — End-to-End Classification
+### 1)  Fake News Detection (NLP) — End-to-End Classification
 **Tech:** Python, scikit-learn, TF-IDF, Logistic Regression / SVM  
 - Built a full text classification workflow (preprocess → vectorize → train → validate)  
 
-### 2) 🧠 AI-Powered Mental Health Screening Prototype (ML + Mobile Demo)
+### 2)  AI-Powered Mental Health Screening Prototype (ML + Mobile Demo)
 **Tech:** Python, TensorFlow/TFLite, NLP, CV, Firebase, *(Flutter — secondary)*  
 - Prototype for preliminary screening (no clinical claims)  
 - Optimized on-device inference using **TensorFlow Lite**  
 
-### 3) 🧳 Travel AI Companion App (AI Integration + Product Thinking)
+### 3) Travel AI Companion App (AI Integration + Product Thinking)
 **Tech:** OpenAI API, Google Maps API, Firebase, *(Flutter — secondary)*  
 - Conversational trip planning with dynamic itinerary generation  
----
 
-## 🧰 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000000?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000000" />
+---
+##  Code & Software Arsenal 
+
+<p align="center"><b>Primary (AI/ML & Data)</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv" />
+</p>
+
+<p align="center"><b>Deployment & Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+</p>
+
+<p align="center"><b>Secondary (Mobile)</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase" />
+</p>
+
+<p align="center"><b>Also</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp" />
 </p>
 
 ---
@@ -119,15 +135,14 @@ I design and ship production-minded ML pipelines: data → features → training
 
 ##  Languages
 <p>
-   <b>English:</b> Advanced
-<br/>
-   <b>Arabic:</b> Native<br/>
-  <b>Turkish:</b> Advanced
+  <img src="https://cdn.jsdelivr.net/npm/svg-country-flags@1.2.10/svg/gb.svg" width="18" /> <b>English:</b> Advanced<br/>
+  <img src="https://cdn.jsdelivr.net/npm/svg-country-flags@1.2.10/svg/ps.svg" width="18" /> <b>Arabic:</b> Native<br/>
+  <img src="https://cdn.jsdelivr.net/npm/svg-country-flags@1.2.10/svg/tr.svg" width="18" /> <b>Turkish:</b> Advanced
 </p>
 
+---
 
-
-## 🤝 Contact
+##  Contact
 - 📧 Email: **yabuzahra7@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/yahya-abuzahra
 
