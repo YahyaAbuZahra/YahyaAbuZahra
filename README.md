@@ -28,7 +28,7 @@
 <p align="center">
   <b>AI / Machine Learning</b> • <b>Applied Data Science</b> • <b>MLOps (API & Deployment)</b><br/>
 
-  <i>Flutter is a secondary skill — I use it mainly to ship ML demos and on-device inference when needed.</i>
+        <i>Flutter is a secondary skill — I use it mainly to ship ML demos and on-device inference when needed.</i>
 </p>
 
 <p align="center">
